@@ -1,4 +1,4 @@
-![Project GIF](images/project_gif.gif)
+![Project GIF](assets\project_gif.gif "Survey Slideshow")
 # Data Analysis-of-Stack-Overflow-Annual-Developer-Survey-2024
 Data Analysis of Stack Overflow Annual Developer Survey 2024 using Python and Python tools (Pandas, Matplotlib, Numpy, Jupyter and RISE)   
 
@@ -24,7 +24,7 @@ To enable RISE, run- `jupyter-nbextension enable rise --py --sys-prefix`
 To run the jupyter web client, run- `jupyter notebook`  
 
 Now you can navigate to the notebooks/survey-notebook.ipynb file and open it in jupyter. To start the RISE slideshow, click the button in the following picture- 
-![RISE Slideshow Button](images/Screenshot%202024-12-29%20203046.png)
+![RISE Slideshow Button](assets\Screenshot%2024-12-29%203046.png)
 
 Now you are all set up and can work with jupyter and rise for a slideshow  
 
