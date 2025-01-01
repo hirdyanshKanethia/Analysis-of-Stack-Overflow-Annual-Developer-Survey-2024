@@ -1,7 +1,6 @@
 # Data Analysis-of-Stack-Overflow-Annual-Developer-Survey-2024  
 
-![Project GIF](assets\project_gif1.gif)
-
+![project_gif1](https://github.com/user-attachments/assets/9a855a04-b05d-43b8-9507-b6c5fd44b536)
   
 Data Analysis of Stack Overflow Annual Developer Survey 2024 using Python and Python tools (Pandas, Matplotlib, Numpy, Jupyter and RISE)   
 
